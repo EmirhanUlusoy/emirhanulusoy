@@ -14,11 +14,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-- LuNiZz┊Security Architect, streamer, gamer <br>
+- EmirhanUlusoy┊Cyber Security <br>
 
-- Father of 3 [👦👧👶] ❤️ <br>
+- Network,C++,Python,Web Security,Kali Linux,Linux,Penetration Tester <br>
 
-- ☁️🍺✈️⚽🏈🎾🎮 <br>
+- English Level B+ <br>
 
 
 
