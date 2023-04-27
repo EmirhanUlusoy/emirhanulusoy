@@ -84,9 +84,9 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=emirhanulusoy&&style=flat-square" align="center" />
-</div>  
+
+[![](https://visitcount.itsvg.in/api?id=MeteTatar&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
   
 
 <br/>  
