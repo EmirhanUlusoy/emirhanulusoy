@@ -22,7 +22,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/EmirhanUlusoy/emirhanulusoy/raw/main/-g0oqpy.jpg" align="right" style="width: 50%" />
+<img src="https://github.com/EmirhanUlusoy/Emirhanulusoy/raw/main/-g0oqpy.jpg" align="right" style="width: 50%" />
 </div>  
 
 
@@ -87,7 +87,7 @@
 <br/>  
 
 
-[![](https://visitcount.itsvg.in/api?id=emirhanulusoy&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EmirhanUlusoy&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   
 
