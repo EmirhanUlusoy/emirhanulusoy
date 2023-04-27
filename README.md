@@ -79,9 +79,9 @@
 </div>  
 
 <br/>  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EmirhanUlusoy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=EmirhanUlusoy&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
+
 <br/>  
 
 
