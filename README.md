@@ -22,7 +22,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/EmirhanUlusoy/Emirhanulusoy/raw/main/IMG_20230705_022859_824.jpg" align="right" style="width: 50%" />
+<img src="https://github.com/EmirhanUlusoy/Emirhanulusoy/raw/main/li.jpg" align="right" style="width: 50%" />
 </div>  
 
 
